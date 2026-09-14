@@ -1274,6 +1274,17 @@ if you would rather browse from inside the app.
 
   </details>
 
+- **Search and select models in DSH** with [dsh-model-search](https://github.com/GooDAnDReaDY/dsh-model-search) by [GooDAnDReaDY](https://github.com/GooDAnDReaDY). A searchable model selector for the DeepSeek Harness WebUI with a native settings card. 0★, MIT.
+
+  <details>
+  <summary>Install</summary>
+
+  ```sh
+  dsh plugin --profile web add @goodandready/dsh-model-search
+  ```
+
+  </details>
+
 - **Use ChatGPT, Claude, Grok, and Antigravity subscriptions** with [dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) by [GooDAnDReaDY](https://github.com/GooDAnDReaDY). OAuth-backed subscription providers for DeepSeek Harness. 0★, MIT.
 
   <details>
