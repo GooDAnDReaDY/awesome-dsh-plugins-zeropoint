@@ -914,6 +914,17 @@ if you would rather browse from inside the app.
 
   </details>
 
+- **Submit privacy-safe bug reports from DSH** with [dsh-issue-reporter](https://github.com/GooDAnDReaDY/dsh-issue-reporter) by [GooDAnDReaDY](https://github.com/GooDAnDReaDY). Redacts sensitive data and supports GitHub and Gitea issues with explicit confirmation. 0★, MIT.
+
+  <details>
+  <summary>Install</summary>
+
+  ```sh
+  dsh plugin --profile web add @goodandready/dsh-issue-reporter
+  ```
+
+  </details>
+
 ### Notifications and messaging
 
 - **Drive a DSH agent from Lark or Feishu chat** with [dsh-lark](https://github.com/omdsh-dev/dsh-lark) by [omdsh-dev](https://github.com/omdsh-dev). Tool approvals and plan reviews return as cards you tap. 51★, BSD-3-Clause.
