@@ -1146,6 +1146,17 @@ if you would rather browse from inside the app.
 
   </details>
 
+- **Track API key and subscription limits in DSH** with [dsh-key-limits](https://github.com/GooDAnDReaDY/dsh-key-limits) by [GooDAnDReaDY](https://github.com/GooDAnDReaDY). Shows quota limits in a floating chip, composer bar, and settings UI. 0★, MIT.
+
+  <details>
+  <summary>Install</summary>
+
+  ```sh
+  dsh plugin --profile web add @goodandready/dsh-key-limits
+  ```
+
+  </details>
+
 ### Find and manage plugins
 
 - **Browse and install plugins without leaving the app** with [dsh-market](https://github.com/dsh-market/dsh-market) by [dsh-market](https://github.com/dsh-market). Search, category filters, and one-click install from inside settings. 3,362★, MIT.
